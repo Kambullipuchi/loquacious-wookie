@@ -14,5 +14,18 @@
   "license": "MPL 2.0",
   "bugs": {
     "url": "https://github.com/Kambullipuchi/loquacious-wookie/issues"
+  },
+  "devDependencies": {
+    "del": "^1.2.1",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-copy": "0.0.2",
+    "gulp-jshint": "^1.11.2",
+    "gulp-rev": "^6.0.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-usemin": "^0.3.11",
+    "jshint-stylish": "^2.0.1"
   }
 }
