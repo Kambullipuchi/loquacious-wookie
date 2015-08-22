@@ -1,2 +1,2 @@
-# loquacious-wookie
-Loquacious Wookie
+# Remote HTML5 Presentation Module
+
